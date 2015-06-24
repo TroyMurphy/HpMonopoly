@@ -1,0 +1,211 @@
+Tokens:
+Sorting Hat
+Knight Bus
+Scabbers
+Crookshanks
+Buckbeak
+Glasses
+Quill
+Hedwig
+
+=====================================
+Spaces
+=====================================
+Deep Purple:
+
+
+Light Blue:
+
+
+Pink
+
+
+Orange:
+
+
+Red:
+
+
+Yellow:
+
+
+Green:
+Elder Wand
+Invisibility Cloak
+Resurrection Stone
+
+Blue:
+
+
+
+Railroads:
+Hogwarts Houses?
+
+
+Utilities:
+
+
+=====================================
+Locations
+=====================================
+
+HOGSMEADE:
+Dervish and Banges - repairs magical instruments
+Hogsmeade Post Office - the owlery
+Honeydukes - sweet shop
+Madam Puddifoot's Tea Shop - "haunt of happy couples"
+Hog's Head - Aberforth Dumbledore's pub
+Three Broomsticks Inn - Madam Rosmerta's Pub
+Zonko's Joke Shop 
+
+
+DIAGON ALLEY:
+Daily Prophet
+Eeylops Owl Emporium
+Flourish and Blotts
+Gringotts
+Ollivander
+Quality Quidditch Supplies
+Weasleys' Wizard Wheezes
+
+Borgin and Burkes
+Madam Malkin's Robes
+
+Other:
+
+Cupboard under the stairs
+Hagrid's Hut
+
+
+
+Ministry of Magic
+Hogwarts
+
+Room of requirement
+chamber of secrets
+Quidditch pitch
+
+========================================
+IDEAS
+========================================
+
+Gringotts holds the money. Add a few goblins
+
+
+
+
+Go
+Violet1:
+ComChest:
+Violet2:
+IncomeTax:
+Railroad:
+Cyan1:
+Chance:
+Cyan2:
+Cyan3:
+Jail:
+Purple1:
+Utility1:
+Purple2:
+Purple3:
+Railroad:
+Orange1:
+ComChest:
+Orange2:
+Orange3:
+FreeParking:
+Red1:
+Chance:
+Red2:
+Red3:
+Railroad:
+Yellow1:
+Yellow2:
+Utility2:
+Yellow3:
+GoToJail:
+Green1:
+Green2:
+ComChest:
+Green3:
+Railroad:
+Chance:
+Blue1:
+LuxuryTax:
+Blue2:
+
+
+Sample Board:
+Go
+Violet1:	Cupboard Under the Stairs
+ComChest:	Charm
+Violet2:	Hagrid's Hut
+IncomeTax:	Ministry Tax
+Railroad:	Griffindor
+Cyan1:		The Burrow
+Chance:		Hex
+Cyan2:		Number 12 Grimmuald Place
+Cyan3:		Privet drive
+Jail:		Azkaban
+Purple1:	Flourish and Blotts
+Utility1:	Hogwarts Express
+Purple2:	Ollivanders
+Purple3:	Weasley's Wizard Wheezes
+Railroad:	Hufflepuff
+Orange1:	HoneyDukes
+ComChest:	
+Orange2:	Zonkos Joke Shop
+Orange3:	Three Broomsticks
+FreeParking:	Free ride for the stranded witch or 			wizard
+Red1:		Owlery
+Chance:		Hex
+Red2:		Forbidden Forest
+Red3:		Quidditch Pitch
+Railroad:	Ravenclaw
+Yellow1:	Room of requirement
+Yellow2:	Chamber of Secrets
+Utility2:	Floo Networks
+Yellow3:	Dumbledore's Office
+GoToJail:	Go To Azkaban
+Green1:		Shrieking Shack
+Green2:		Malfoy Manor
+ComChest:	Portkey
+Green3:		Little Hangleton Graveyard
+Railroad:	Slytherin
+Chance:		Charm
+Blue1:		Ministry of Magic
+LuxuryTax:	Gringotts bank fee
+Blue2:		Hogwarts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
