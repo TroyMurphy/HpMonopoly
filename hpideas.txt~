@@ -77,7 +77,7 @@ Other:
 
 Cupboard under the stairs
 Hagrid's Hut
-
+Dudley's Bedroom
 
 
 Ministry of Magic
@@ -97,12 +97,12 @@ Gringotts holds the money. Add a few goblins
 
 
 
-Go
-Violet1:
-ComChest:
+Go			Firebolt
+Violet1:		Cupboard Under the Stairs
+ComChest:		Potions
 Violet2:
-IncomeTax:
-Railroad:
+IncomeTax:		Gringott's Fee
+Railroad:		Moony
 Cyan1:
 Chance:
 Cyan2:
@@ -112,7 +112,7 @@ Purple1:
 Utility1:
 Purple2:
 Purple3:
-Railroad:
+Railroad:		Wormtail
 Orange1:
 ComChest:
 Orange2:
@@ -122,7 +122,7 @@ Red1:
 Chance:
 Red2:
 Red3:
-Railroad:
+Railroad:		Padfoot
 Yellow1:
 Yellow2:
 Utility2:
