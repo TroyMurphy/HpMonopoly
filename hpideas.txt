@@ -100,26 +100,26 @@ Gringotts holds the money. Add a few goblins
 Go			Firebolt
 Violet1:		Cupboard Under the Stairs
 ComChest:		Potions
-Violet2:
-IncomeTax:		Gringott's Fee
+Violet2:		Number 12 Grimmuald Place
+IncomeTax:		Ministry Tax
 Railroad:		Hogwarts Express
-Cyan1:
-Chance:
-Cyan2:
-Cyan3:
-Jail:
-Purple1:
+Cyan1:			Little whinging
+Chance:			Potions Pink
+Cyan2:			Little Hangleton
+Cyan3:			Spinner's End
+Jail:			Azkaban
+Purple1:		The Burrow
 Utility1:		Quibbler
-Purple2:
+Purple2:		Shell Cottage
 Purple3:
 Railroad:		Floo Networks
 Orange1:
-ComChest:
+ComChest:		Spells
 Orange2:
 Orange3:
-FreeParking:
+FreeParking:		Knight Bus Free Ride
 Red1:
-Chance:
+Chance:			Potions Blue
 Red2:
 Red3:
 Railroad:		Portkey
@@ -127,15 +127,15 @@ Yellow1:
 Yellow2:
 Utility2:		Daily Prophet
 Yellow3:
-GoToJail:
-Green1:
-Green2:
+GoToJail:		Dementor
+Green1:			Beauxbatons
+Green2:			Durmstrang
 ComChest:
-Green3:
+Green3:			Hogwarts
 Railroad:		Toilet Network
-Chance:
+Chance:			Potions Orange
 Blue1:
-LuxuryTax:
+LuxuryTax:		Gringotts Fee
 Blue2:
 
 

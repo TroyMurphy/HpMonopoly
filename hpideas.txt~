@@ -102,17 +102,17 @@ Violet1:		Cupboard Under the Stairs
 ComChest:		Potions
 Violet2:
 IncomeTax:		Gringott's Fee
-Railroad:		Moony
+Railroad:		Hogwarts Express
 Cyan1:
 Chance:
 Cyan2:
 Cyan3:
 Jail:
 Purple1:
-Utility1:
+Utility1:		Quibbler
 Purple2:
 Purple3:
-Railroad:		Wormtail
+Railroad:		Floo Networks
 Orange1:
 ComChest:
 Orange2:
@@ -122,17 +122,17 @@ Red1:
 Chance:
 Red2:
 Red3:
-Railroad:		Padfoot
+Railroad:		Portkey
 Yellow1:
 Yellow2:
-Utility2:
+Utility2:		Daily Prophet
 Yellow3:
 GoToJail:
 Green1:
 Green2:
 ComChest:
 Green3:
-Railroad:
+Railroad:		Toilet Network
 Chance:
 Blue1:
 LuxuryTax:
