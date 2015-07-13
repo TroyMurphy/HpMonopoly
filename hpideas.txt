@@ -12,37 +12,63 @@ Werewolf
 Spaces
 =====================================
 Deep Purple:
+Cupboard Under the Stairs
+Hut On the Rock
 
+Income Tax:
+Minstry Tax
+Gringotts Fee
 
 Light Blue:
-
+Number 12 Grimmuald Place
+The Burrow
+Shell Cottage
 
 Pink
-
+Flourish & Blotts
+Weazley's Wizard Wheezes
+Ollivanders
 
 Orange:
-
+Honeyduke's
+The Hog's Head
+The Three Broomsticks
 
 Red:
-
+Hagrid's Hut
+Forbidden Forest
+The Great Lake
 
 Yellow:
-
+Department of Muggle artifacts
+Auror's Office
+Department of Mysteries
 
 Green:
-Elder Wand
-Invisibility Cloak
-Resurrection Stone
+Durmstrang
+Beauxbatons
+Hogwarts
 
 Blue:
-
+Malfoy Manor
+Godric's Hollow
 
 
 Railroads:
-Hogwarts Houses?
-
+Hogwarts Express
+Floo Network
+Portkey
+Toilet Network
 
 Utilities:
+Quibbler
+Daily Prophet
+
+Chance:
+Potions
+
+Community Chest:
+Spells
 
 
 =====================================
@@ -197,6 +223,13 @@ Yellow / Black
 
 
 
+Cards:
+
+Get out of azkaban
+Troll destroys houses
+Filch in Restricted Section
+Gideroy Lockhart Book Signing
+Second Place in Triwizard Tournament
 
 
 
